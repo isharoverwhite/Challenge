@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21244537780",
+    "project_id": "login-register-android-test",
+    "storage_bucket": "login-register-android-test.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21244537780:android:17967833eb19cf0475a0e1",
+        "android_client_info": {
+          "package_name": "com.ryzen30xx.chartreux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWx5IkOB-OX-4w_y0boID24932vdSS9Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
