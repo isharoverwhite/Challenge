@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315998914536",
+    "project_id": "books-library-app-950e9",
+    "storage_bucket": "books-library-app-950e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315998914536:android:cfba90bfc93f056a80c65d",
+        "android_client_info": {
+          "package_name": "com.ryzen30xx.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAesx7rVRADCnRyqa1ZoabtggtFFFRrLVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
